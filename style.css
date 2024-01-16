@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:#f0d7ff;
+}
+button{
+    font-size: 25px;
+    padding: 7px;
+    margin: 5px;
+    margin-right: 15px;
+    background-color: #eabaf3;
+    color: #490755;
+    border-radius: 10px;
+}
+h1{
+    font-size: 45px;
+    color: #490755;
+    font-family: 'Ubuntu', sans-serif;
+}
